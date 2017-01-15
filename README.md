@@ -1,3 +1,10 @@
+*This is the modified make for my build for Windows 10/Ubuntu"
+
+sudo apt-get install libopencv-dev python-opencv
+sudo apt-get install libboost-all-dev
+
+
+
 # mnisten : image files to idx format converter
 mnisten is a library to convert image files to [idx format](http://yann.lecun.com/exdb/mnist/) binaries.
 - assign label id automatically by directory-name (lexicographical order)
