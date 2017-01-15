@@ -1,6 +1,9 @@
 *This is the modified make for my build for Windows 10/Ubuntu"
 
 sudo apt-get install libopencv-dev python-opencv
+
+
+
 sudo apt-get install libboost-all-dev
 
 
